@@ -24,5 +24,15 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/HenrikJoreteg/mediastream-gain"
+  },
+  "cortex": {
+    "dependencies": {
+      "webrtcsupport": "^0.7.3"
+    },
+    "asyncDependencies": {},
+    "devDependencies": {},
+    "directories": {},
+    "engines": {},
+    "scripts": {}
   }
 }
